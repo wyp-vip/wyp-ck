@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+user:
+  id: 1
+  userName: wyp
+  isboy: true
+
